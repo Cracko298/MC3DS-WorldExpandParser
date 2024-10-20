@@ -1,2 +1,6 @@
 # MC3DS-WorldExpandParser
-Opens code.bin and parses offsets and patterns between values for World Expansion.
+## Usage:
+- Place `code.bin` in the same Directory.
+```
+python WorldExpandingParser.py
+```
